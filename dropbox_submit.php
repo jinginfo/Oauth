@@ -1,7 +1,7 @@
 <?php
 if ($_POST) {
 error_reporting(E_ERROR | E_WARNING | E_PARSE);
-include("dropbox.php");
+include("dropbox_class.php");
 $customer_key = "customer_key";
 $customer_secret = "customer_secret";
 $oauth_token = "oauth_token";
