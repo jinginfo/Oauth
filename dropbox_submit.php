@@ -34,7 +34,7 @@ $resultarray = json_decode($result);
 if (isset($resultarray->modified))
 print("<div style=\"margin:50px\">We receive your file. Thanks</div>");
 else
-print("<div cstyle=\"margin:50px\">An error happened while you were uploading the file. Please contect editorial@starchefsinc.com</div>");
+print("<div cstyle=\"margin:50px\">An error happened while you were uploading the file. Please contect xxxx</div>");
 
 }
 else {
