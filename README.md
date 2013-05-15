@@ -1,4 +1,4 @@
-Allow anonymous people upload all file types into Dropbox
+Allow anonymous user upload all file types into Dropbox
 
 Use Oauth to give permission to put files directly to Dropbox sand box
 
